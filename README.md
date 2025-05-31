@@ -2,13 +2,13 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpiOXI5ZmVpMjA1OXFudnI4bWY1bmI0cGpyNWt4NXJ6NmdzOGN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
-- 🌱 I’m currently learning **SQL,FRONT END DEVELOPMENT**
+- 🌱 I’m currently learning **FRONT END DEVELOPMENT**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA,SQL**
 
 - 📫 How to reach me **velan30000@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I ain't funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
