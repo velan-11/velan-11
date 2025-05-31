@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Velan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpiOXI5ZmVpMjA1OXFudnI4bWY1bmI0cGpyNWt4NXJ6NmdzOGN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+<img align="right" alt="Coding" width="400" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpiOXI5ZmVpMjA1OXFudnI4bWY1bmI0cGpyNWt4NXJ6NmdzOGN5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtsOHhsM242ejNvazhnZHViZGg0dW5kam00MXByeHNlNWYxZjN1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif)">
 
 - 🌱 I’m currently learning **FRONT END DEVELOPMENT**
 
