@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Velan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc](https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc)">
 
 - 🌱 I’m currently learning **FRONT END DEVELOPMENT**
 
